@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gazebo_models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gazebo_plugin_actor_collision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/path-planning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rrt_exploration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rrt_exploration_tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/teb_local_planner_tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtlebot3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtlebot3_machine_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtlebot3_msgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtlebot3_simulations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtlebot_rrt" vcs="Git" />
+  </component>
+</project>
