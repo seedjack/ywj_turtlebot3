@@ -3,14 +3,14 @@
 
 #编译<br>
 ```
-cd ywj_turtlebot3/<br>
-catkin_make<br>
+cd ywj_turtlebot3/  
+catkin_make
 ```
 
 #运行<br>
 ```
-source devel/setup.bash<br>
-roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch<br>
+source devel/setup.bash  
+roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch  
 ```
 ![image](https://github.com/seedjack/ywj_turtlebot3/blob/master/images/simulate_env.png)
 
