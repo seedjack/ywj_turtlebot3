@@ -12,6 +12,7 @@ catkin_make<br>
 source devel/setup.bash<br>
 roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch<br>
 ```
+![image](https://github.com/seedjack/ywj_drl/blob/master/images/2020-06-22%2012-21-34%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 **注意:**
 
